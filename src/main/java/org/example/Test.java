@@ -1,7 +1,9 @@
 package org.example;
 
 public class Test {
-    public static void main(String[] args) {
-        System.out.println("hello git");
-    }
+   public void exemplu(){
+       System.out.println("Imi place Git");
+
+   }
+
 }
