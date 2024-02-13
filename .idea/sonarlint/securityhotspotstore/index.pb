@@ -7,3 +7,8 @@ S
 	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
 S
 #src/main/java/org/example/Test.java,a\d\ad60b8b6e75b7d80ea3441c372d5f5b965deca7c
+:
+
+.gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
+J
+src/test/java/Testing.java,8\9\89eb5731952c35807506db3b31d161145d9c16fc
