@@ -12,3 +12,5 @@ S
 .gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
 J
 src/test/java/Testing.java,8\9\89eb5731952c35807506db3b31d161145d9c16fc
+T
+$src/main/java/org/example/Test3.java,e\2\e245e3cec2b4c9d6ee5f4f04baf0ef4bda37a306
